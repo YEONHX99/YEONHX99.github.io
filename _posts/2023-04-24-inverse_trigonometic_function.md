@@ -20,7 +20,12 @@ use_math: true
 이 역함수를 역사인함수(inverse sine function) 또는 아크사인함수(arcsine function)이라고 하며 기호 $sin^{-1}$이나 $\mathit{arcsin}$으로 나타낸다. 
 
 역함수의 정의에 의해 다음을 얻는다.
+
 $$ y = sin^{-1}x\ \Leftrightarrow\ x = siny \quad \left(-\frac{\pi}{2} \leq y \leq \frac{\pi}{2} \right) $$
+
+
+즉, $sin^{-1}x$의 정의역은 $\left[ -1 , 1  \right]$이고 치역은 $\left[ -\frac{\pi}{2} , \frac{\pi}{2} \right]$이다.
+
 
 
 
