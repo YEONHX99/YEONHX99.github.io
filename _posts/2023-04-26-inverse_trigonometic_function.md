@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "역삼각함수"
-categories: 미적분학
+categories: calculus
 tag: [삼각함수, 역함수, 초월함수]
 side_bar:
     nav: "counts"
