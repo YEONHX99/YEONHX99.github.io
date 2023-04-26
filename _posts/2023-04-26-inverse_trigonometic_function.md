@@ -7,6 +7,7 @@ side_bar:
     nav: "counts"
 author_profile: false
 toc: true
+use_math: true
 ---
 
 ## 1. 정의
