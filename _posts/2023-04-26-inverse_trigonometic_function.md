@@ -6,7 +6,6 @@ tag: [삼각함수, 역함수, 초월함수]
 side_bar:
     nav: "counts"
 author_profile: false
-use_math: true
 toc: true
 ---
 
