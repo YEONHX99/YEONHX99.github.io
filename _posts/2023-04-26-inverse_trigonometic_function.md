@@ -45,7 +45,7 @@ use_math: true
 역탄젠트함수 $tan^{-1}$의 정의역은 $\mathbb{R}$이고 치역은 개구간 $\left( -\frac{\pi}{2} , \frac{\pi}{2} \right)$이다.
 <br/><br/>
 
-
+## 2. 도함수
 
 
 
