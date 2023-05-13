@@ -45,4 +45,5 @@ use_math: true
 <br/><br/>
 
 ### Reference
->James Stewart, 『Calculus 9th Edition』, Cengage Learning (2020)
+>James Stewart(2020). 『Calculus』(9th ed). Cengage Learning 
+>Tom M. Apostol(1967). 『Calculus Volume 1: One-variable Calculus, with an Introduction to Linear Algebra』(2nd ed.). New York: Willey
